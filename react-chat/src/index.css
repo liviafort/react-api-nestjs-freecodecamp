@@ -1,0 +1,11 @@
+.scrollarea{
+    min-height: 500px;
+}
+
+.form-control{
+    border-color: darkcyan;
+}
+
+#usuario{
+    border-color: darkcyan;
+}
